@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Taller3</string>
+    <string name="opciones">OPCIONES</string>
+    <string name="areas">AREAS</string>
+    <string name="valordellado">Valor del Lado:</string>
+    <string name="areas2">AREAS</string>
+    <string name="cuadrado">CUADRADO</string>
+    <string name="volumenes">VOLUMENES</string>
+    <string name="operaciones">OPERACIONES REALIZADAS</string>
+    <string name="cuadrado2">CUADRADO</string>
+    <string name="rectangulo">RECTANGULO</string>
+    <string name="triangulo">TRIANGULO</string>
+    <string name="circulo">CIRCULO</string>
+    <string name="calcular">Calcular</string>
+    <string name="borrar">Borrar</string>
+    <string name="resultado">Resultado</string>
+    <string name="area">Area:</string>
+    <string name="ok">OK</string>
+    <string name="restangulo">RECTANGULO</string>
+    <string name="valordelbxa">Valor de Base:</string>
+    <string name="valoraltura">Valor Altura:</string>
+    <string name="calcularrectangulo">Calcular</string>
+    <string name="borrarectangulo">Borrar</string>
+    <string name="rectanguloresultado">RECTANGULO</string>
+    <string name="resultadorec">Resultado</string>
+    <string name="area3">Area</string>
+    <string name="okrectangulo">OK</string>
+    <string name="valorradio">Valor Radio:</string>
+    <string name="esfera">ESFERA</string>
+    <string name="cilindro">CILINDRO</string>
+    <string name="cono">CONO</string>
+    <string name="cubo">CUBO</string>
+    <string name="valorancho">Valor Ancho:</string>
+    <string name="valorlargo">Valor Largo:</string>
+    <string name="volumen">Volumen:</string>
+    <string name="errorCuadrado">Digite el lado!</string>
+    <string name="Lado">Lado:</string>
+    <string name="areadelcuadrado">Area del cuadrado</string>
+    <string name="altura">Altura:</string>
+    <string name="base">Base:</string>
+    <string name="radio2">Radio:</string>
+    <string name="areadelrectangulo">Area del Rectangulo</string>
+    <string name="errorrectangulobase">Digite base!</string>
+    <string name="errorrectanguloaltura">Digite altura!</string>
+    <string name="areadeltriangulo">Area del triangulo</string>
+    <string name="areadelcirculo">Area del circulo</string>
+    <string name="errordelcirculo">Digite Radio!</string>
+    <string name="erroresfera">Digite Esfera!</string>
+    <string name="volumendelaesfera">Volumen de la esfera</string>
+    <string name="volumendelcilindro">Volumen del cilindro</string>
+    <string name="volumendelcono">Volumen del cono</string>
+    <string name="volumendelcubo">Volumen del cubo</string>
+    <string name="errorcubo">Digite Area!</string>
+    <string name="no">No</string>
+    <string name="operacion">Operacion</string>
+    <string name="datos">Datos</string>
+    <string name="valorarea">Valor Area:</string>
+    <string-array name="opciones">
+        <item>@string/areas2</item>
+        <item>@string/volumenes</item>
+        <item>@string/operaciones</item>
+    </string-array>
+    <string-array name="opcionesArea">
+        <item>@string/cuadrado2</item>
+        <item>@string/rectangulo</item>
+        <item>@string/triangulo</item>
+        <item>@string/circulo</item>
+    </string-array>
+
+    <string-array name="opcionesVolumenes">
+        <item>@string/esfera</item>
+        <item>@string/cilindro</item>
+        <item>@string/cono</item>
+        <item>@string/cubo</item>
+    </string-array>
+</resources>
